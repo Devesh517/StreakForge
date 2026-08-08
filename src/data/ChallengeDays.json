@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "date": "2026-06-10",
+    "title": "Day 1: Set up your project skeleton",
+    "brief": "Initialize your repo, folder structure, and README. A clean start makes day 60 easier than day 1.",
+    "tasks": [
+      "Create a public GitHub repo for your track project",
+      "Add a README with your project's one-line pitch",
+      "Push your first commit"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-1",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day1-100daysofcode-activity-1000000001"
+    }
+  },
+  {
+    "id": 2,
+    "date": "2026-06-11",
+    "title": "Day 2: Wireframe your core screen",
+    "brief": "Sketch the single screen a user will see most. Paper, Figma, or the back of a notebook all count.",
+    "tasks": [
+      "Sketch the main screen of your project",
+      "List the 3 actions a user can take on it",
+      "Save the wireframe to your repo as an image"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-2",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day2-100daysofcode-activity-1000000002"
+    }
+  },
+  {
+    "id": 3,
+    "date": "2026-06-12",
+    "title": "Day 3: Build your first static layout",
+    "brief": "Turn yesterday's wireframe into markup. No logic yet — just structure and spacing.",
+    "tasks": [
+      "Build the HTML/JSX structure for your main screen",
+      "Style it with your framework of choice",
+      "Commit with message: 'day N: static layout'"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-3",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day3-100daysofcode-activity-1000000003"
+    }
+  },
+  {
+    "id": 4,
+    "date": "2026-06-13",
+    "title": "Day 4: Wire up your data model",
+    "brief": "Decide what a single 'item' in your app looks like, and write it down before you write code for it.",
+    "tasks": [
+      "Define your core data shape (JSON or schema)",
+      "Create 3 sample records",
+      "Render them as a static list"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-4",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day4-100daysofcode-activity-1000000004"
+    }
+  },
+  {
+    "id": 5,
+    "date": "2026-06-14",
+    "title": "Day 5: Add your first interaction",
+    "brief": "Pick one button. Make it do something real — not just log to console.",
+    "tasks": [
+      "Implement one working click or tap interaction",
+      "Handle the empty/loading state for it",
+      "Commit and note what broke along the way"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-5",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day5-100daysofcode-activity-1000000005"
+    }
+  },
+  {
+    "id": 6,
+    "date": "2026-06-15",
+    "title": "Day 6: Style pass: make it look intentional",
+    "brief": "Nothing kills momentum like an ugly build. Give today fully to visual polish.",
+    "tasks": [
+      "Pick a 3-color palette and apply it consistently",
+      "Fix spacing on your smallest screen size",
+      "Screenshot before/after for your notes"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-6",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day6-100daysofcode-activity-1000000006"
+    }
+  },
+  {
+    "id": 7,
+    "date": "2026-06-16",
+    "title": "Day 7: Handle your first edge case",
+    "brief": "Every real app breaks somewhere. Find one place yours does, and fix it.",
+    "tasks": [
+      "Identify one input that currently breaks your UI",
+      "Add a guard or fallback for it",
+      "Write a one-line comment explaining the fix"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-7",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day7-100daysofcode-activity-1000000007"
+    }
+  },
+  {
+    "id": 8,
+    "date": "2026-06-17",
+    "title": "Day 8: Connect to mock or live data",
+    "brief": "Move from hardcoded arrays to something that resembles a real data source.",
+    "tasks": [
+      "Move your sample data into a separate JSON file",
+      "Fetch or import it instead of hardcoding in components",
+      "Confirm the UI still renders correctly"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-8",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day8-100daysofcode-activity-1000000008"
+    }
+  },
+  {
+    "id": 9,
+    "date": "2026-06-18",
+    "title": "Day 9: Add navigation between two screens",
+    "brief": "An app is more than one screen. Build the second one today.",
+    "tasks": [
+      "Create a second route or screen",
+      "Add a way to move between the two",
+      "Test both directions of navigation"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-9",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day9-100daysofcode-activity-1000000009"
+    }
+  },
+  {
+    "id": 10,
+    "date": "2026-06-19",
+    "title": "Day 10: Write your first real form",
+    "brief": "Forms are where most learning apps fall apart. Build one that actually validates input.",
+    "tasks": [
+      "Build a form with at least 2 fields",
+      "Add basic validation (required, format)",
+      "Show a clear error state"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-10",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day10-100daysofcode-activity-1000000010"
+    }
+  },
+  {
+    "id": 11,
+    "date": "2026-06-20",
+    "title": "Day 11: Refactor without changing behavior",
+    "brief": "Today, don't add anything. Make what exists easier to read.",
+    "tasks": [
+      "Rename one unclear variable or component",
+      "Split one oversized file into two",
+      "Confirm nothing broke after the refactor"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-11",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day11-100daysofcode-activity-1000000011"
+    }
+  },
+  {
+    "id": 12,
+    "date": "2026-06-21",
+    "title": "Day 12: Add a loading and empty state",
+    "brief": "Design for the moment before there's data, not just the moment after.",
+    "tasks": [
+      "Add a loading indicator for at least one view",
+      "Add an empty-state message for when there's no data",
+      "Compare how both feel on a 390px screen"
+    ],
+    "status": "missed",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 13,
+    "date": "2026-06-22",
+    "title": "Day 13: Document what you built this week",
+    "brief": "Future-you (and recruiters) will thank present-you for writing this down.",
+    "tasks": [
+      "Update your README with what's working so far",
+      "List 2 things you'd do differently",
+      "Push the updated docs"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-13",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day13-100daysofcode-activity-1000000013"
+    }
+  },
+  {
+    "id": 14,
+    "date": "2026-06-23",
+    "title": "Day 14: Ship a small but real feature",
+    "brief": "Pick the smallest genuinely useful feature you haven't built yet, and ship only that.",
+    "tasks": [
+      "Choose one feature you can finish today",
+      "Build and test it end to end",
+      "Keep the commit scoped to just this feature"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-14",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day14-100daysofcode-activity-1000000014"
+    }
+  },
+  {
+    "id": 15,
+    "date": "2026-06-24",
+    "title": "Day 15: Improve your mobile layout",
+    "brief": "Most of your users are on a phone, late at night. Design for that reality today.",
+    "tasks": [
+      "Test your app at 390px width",
+      "Fix any text truncation or overflow",
+      "Check tap target sizes are comfortable"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-15",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day15-100daysofcode-activity-1000000015"
+    }
+  },
+  {
+    "id": 16,
+    "date": "2026-06-25",
+    "title": "Day 16: Add error handling to one flow",
+    "brief": "Pick your riskiest flow — the one most likely to fail — and make failure survivable.",
+    "tasks": [
+      "Identify your most fragile user flow",
+      "Add a try/catch or fallback UI for it",
+      "Write down what a user sees when it fails"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-16",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day16-100daysofcode-activity-1000000016"
+    }
+  },
+  {
+    "id": 17,
+    "date": "2026-06-26",
+    "title": "Day 17: Write a test for your riskiest function",
+    "brief": "You don't need full coverage. You need confidence in the part that scares you most.",
+    "tasks": [
+      "Pick the function you trust least",
+      "Write one test for its main behavior",
+      "Run it and confirm it passes"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-17",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day17-100daysofcode-activity-1000000017"
+    }
+  },
+  {
+    "id": 18,
+    "date": "2026-06-27",
+    "title": "Day 18: Polish your onboarding moment",
+    "brief": "The first 10 seconds decide whether someone stays. Give them your full attention today.",
+    "tasks": [
+      "Review what a brand-new user sees first",
+      "Cut anything that doesn't help them get started",
+      "Add one line of guidance if it's missing"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-18",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day18-100daysofcode-activity-1000000018"
+    }
+  },
+  {
+    "id": 19,
+    "date": "2026-06-28",
+    "title": "Day 19: Add a share or export feature",
+    "brief": "Give your project a way to leave the app — a link, an image, a download.",
+    "tasks": [
+      "Pick one artifact worth sharing (result, score, output)",
+      "Build a simple share or export action for it",
+      "Test that the shared output makes sense out of context"
+    ],
+    "status": "completed",
+    "proof": {
+      "github": "https://github.com/ananya-codes/streakforge-day-19",
+      "linkedin": "https://linkedin.com/posts/ananya-codes_day19-100daysofcode-activity-1000000019"
+    }
+  },
+  {
+    "id": 20,
+    "date": "2026-06-29",
+    "title": "Day 20: Mid-challenge review",
+    "brief": "Step back. Look at day 1's commit next to today's. Note the distance.",
+    "tasks": [
+      "Re-read your day 1 README",
+      "List 3 things that changed since then",
+      "Post a short reflection alongside today's proof"
+    ],
+    "status": "today",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 21,
+    "date": "2026-06-30",
+    "title": "Day 21: Set up your project skeleton",
+    "brief": "Initialize your repo, folder structure, and README. A clean start makes day 60 easier than day 1.",
+    "tasks": [
+      "Create a public GitHub repo for your track project",
+      "Add a README with your project's one-line pitch",
+      "Push your first commit"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 22,
+    "date": "2026-07-01",
+    "title": "Day 22: Wireframe your core screen",
+    "brief": "Sketch the single screen a user will see most. Paper, Figma, or the back of a notebook all count.",
+    "tasks": [
+      "Sketch the main screen of your project",
+      "List the 3 actions a user can take on it",
+      "Save the wireframe to your repo as an image"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 23,
+    "date": "2026-07-02",
+    "title": "Day 23: Build your first static layout",
+    "brief": "Turn yesterday's wireframe into markup. No logic yet — just structure and spacing.",
+    "tasks": [
+      "Build the HTML/JSX structure for your main screen",
+      "Style it with your framework of choice",
+      "Commit with message: 'day N: static layout'"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 24,
+    "date": "2026-07-03",
+    "title": "Day 24: Wire up your data model",
+    "brief": "Decide what a single 'item' in your app looks like, and write it down before you write code for it.",
+    "tasks": [
+      "Define your core data shape (JSON or schema)",
+      "Create 3 sample records",
+      "Render them as a static list"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 25,
+    "date": "2026-07-04",
+    "title": "Day 25: Add your first interaction",
+    "brief": "Pick one button. Make it do something real — not just log to console.",
+    "tasks": [
+      "Implement one working click or tap interaction",
+      "Handle the empty/loading state for it",
+      "Commit and note what broke along the way"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 26,
+    "date": "2026-07-05",
+    "title": "Day 26: Style pass: make it look intentional",
+    "brief": "Nothing kills momentum like an ugly build. Give today fully to visual polish.",
+    "tasks": [
+      "Pick a 3-color palette and apply it consistently",
+      "Fix spacing on your smallest screen size",
+      "Screenshot before/after for your notes"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 27,
+    "date": "2026-07-06",
+    "title": "Day 27: Handle your first edge case",
+    "brief": "Every real app breaks somewhere. Find one place yours does, and fix it.",
+    "tasks": [
+      "Identify one input that currently breaks your UI",
+      "Add a guard or fallback for it",
+      "Write a one-line comment explaining the fix"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 28,
+    "date": "2026-07-07",
+    "title": "Day 28: Connect to mock or live data",
+    "brief": "Move from hardcoded arrays to something that resembles a real data source.",
+    "tasks": [
+      "Move your sample data into a separate JSON file",
+      "Fetch or import it instead of hardcoding in components",
+      "Confirm the UI still renders correctly"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 29,
+    "date": "2026-07-08",
+    "title": "Day 29: Add navigation between two screens",
+    "brief": "An app is more than one screen. Build the second one today.",
+    "tasks": [
+      "Create a second route or screen",
+      "Add a way to move between the two",
+      "Test both directions of navigation"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 30,
+    "date": "2026-07-09",
+    "title": "Day 30: Write your first real form",
+    "brief": "Forms are where most learning apps fall apart. Build one that actually validates input.",
+    "tasks": [
+      "Build a form with at least 2 fields",
+      "Add basic validation (required, format)",
+      "Show a clear error state"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 31,
+    "date": "2026-07-10",
+    "title": "Day 31: Refactor without changing behavior",
+    "brief": "Today, don't add anything. Make what exists easier to read.",
+    "tasks": [
+      "Rename one unclear variable or component",
+      "Split one oversized file into two",
+      "Confirm nothing broke after the refactor"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 32,
+    "date": "2026-07-11",
+    "title": "Day 32: Add a loading and empty state",
+    "brief": "Design for the moment before there's data, not just the moment after.",
+    "tasks": [
+      "Add a loading indicator for at least one view",
+      "Add an empty-state message for when there's no data",
+      "Compare how both feel on a 390px screen"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 33,
+    "date": "2026-07-12",
+    "title": "Day 33: Document what you built this week",
+    "brief": "Future-you (and recruiters) will thank present-you for writing this down.",
+    "tasks": [
+      "Update your README with what's working so far",
+      "List 2 things you'd do differently",
+      "Push the updated docs"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 34,
+    "date": "2026-07-13",
+    "title": "Day 34: Ship a small but real feature",
+    "brief": "Pick the smallest genuinely useful feature you haven't built yet, and ship only that.",
+    "tasks": [
+      "Choose one feature you can finish today",
+      "Build and test it end to end",
+      "Keep the commit scoped to just this feature"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 35,
+    "date": "2026-07-14",
+    "title": "Day 35: Improve your mobile layout",
+    "brief": "Most of your users are on a phone, late at night. Design for that reality today.",
+    "tasks": [
+      "Test your app at 390px width",
+      "Fix any text truncation or overflow",
+      "Check tap target sizes are comfortable"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 36,
+    "date": "2026-07-15",
+    "title": "Day 36: Add error handling to one flow",
+    "brief": "Pick your riskiest flow — the one most likely to fail — and make failure survivable.",
+    "tasks": [
+      "Identify your most fragile user flow",
+      "Add a try/catch or fallback UI for it",
+      "Write down what a user sees when it fails"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 37,
+    "date": "2026-07-16",
+    "title": "Day 37: Write a test for your riskiest function",
+    "brief": "You don't need full coverage. You need confidence in the part that scares you most.",
+    "tasks": [
+      "Pick the function you trust least",
+      "Write one test for its main behavior",
+      "Run it and confirm it passes"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 38,
+    "date": "2026-07-17",
+    "title": "Day 38: Polish your onboarding moment",
+    "brief": "The first 10 seconds decide whether someone stays. Give them your full attention today.",
+    "tasks": [
+      "Review what a brand-new user sees first",
+      "Cut anything that doesn't help them get started",
+      "Add one line of guidance if it's missing"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 39,
+    "date": "2026-07-18",
+    "title": "Day 39: Add a share or export feature",
+    "brief": "Give your project a way to leave the app — a link, an image, a download.",
+    "tasks": [
+      "Pick one artifact worth sharing (result, score, output)",
+      "Build a simple share or export action for it",
+      "Test that the shared output makes sense out of context"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 40,
+    "date": "2026-07-19",
+    "title": "Day 40: Mid-challenge review",
+    "brief": "Step back. Look at day 1's commit next to today's. Note the distance.",
+    "tasks": [
+      "Re-read your day 1 README",
+      "List 3 things that changed since then",
+      "Post a short reflection alongside today's proof"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 41,
+    "date": "2026-07-20",
+    "title": "Day 41: Set up your project skeleton",
+    "brief": "Initialize your repo, folder structure, and README. A clean start makes day 60 easier than day 1.",
+    "tasks": [
+      "Create a public GitHub repo for your track project",
+      "Add a README with your project's one-line pitch",
+      "Push your first commit"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 42,
+    "date": "2026-07-21",
+    "title": "Day 42: Wireframe your core screen",
+    "brief": "Sketch the single screen a user will see most. Paper, Figma, or the back of a notebook all count.",
+    "tasks": [
+      "Sketch the main screen of your project",
+      "List the 3 actions a user can take on it",
+      "Save the wireframe to your repo as an image"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 43,
+    "date": "2026-07-22",
+    "title": "Day 43: Build your first static layout",
+    "brief": "Turn yesterday's wireframe into markup. No logic yet — just structure and spacing.",
+    "tasks": [
+      "Build the HTML/JSX structure for your main screen",
+      "Style it with your framework of choice",
+      "Commit with message: 'day N: static layout'"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 44,
+    "date": "2026-07-23",
+    "title": "Day 44: Wire up your data model",
+    "brief": "Decide what a single 'item' in your app looks like, and write it down before you write code for it.",
+    "tasks": [
+      "Define your core data shape (JSON or schema)",
+      "Create 3 sample records",
+      "Render them as a static list"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 45,
+    "date": "2026-07-24",
+    "title": "Day 45: Add your first interaction",
+    "brief": "Pick one button. Make it do something real — not just log to console.",
+    "tasks": [
+      "Implement one working click or tap interaction",
+      "Handle the empty/loading state for it",
+      "Commit and note what broke along the way"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 46,
+    "date": "2026-07-25",
+    "title": "Day 46: Style pass: make it look intentional",
+    "brief": "Nothing kills momentum like an ugly build. Give today fully to visual polish.",
+    "tasks": [
+      "Pick a 3-color palette and apply it consistently",
+      "Fix spacing on your smallest screen size",
+      "Screenshot before/after for your notes"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 47,
+    "date": "2026-07-26",
+    "title": "Day 47: Handle your first edge case",
+    "brief": "Every real app breaks somewhere. Find one place yours does, and fix it.",
+    "tasks": [
+      "Identify one input that currently breaks your UI",
+      "Add a guard or fallback for it",
+      "Write a one-line comment explaining the fix"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 48,
+    "date": "2026-07-27",
+    "title": "Day 48: Connect to mock or live data",
+    "brief": "Move from hardcoded arrays to something that resembles a real data source.",
+    "tasks": [
+      "Move your sample data into a separate JSON file",
+      "Fetch or import it instead of hardcoding in components",
+      "Confirm the UI still renders correctly"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 49,
+    "date": "2026-07-28",
+    "title": "Day 49: Add navigation between two screens",
+    "brief": "An app is more than one screen. Build the second one today.",
+    "tasks": [
+      "Create a second route or screen",
+      "Add a way to move between the two",
+      "Test both directions of navigation"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 50,
+    "date": "2026-07-29",
+    "title": "Day 50: Write your first real form",
+    "brief": "Forms are where most learning apps fall apart. Build one that actually validates input.",
+    "tasks": [
+      "Build a form with at least 2 fields",
+      "Add basic validation (required, format)",
+      "Show a clear error state"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 51,
+    "date": "2026-07-30",
+    "title": "Day 51: Refactor without changing behavior",
+    "brief": "Today, don't add anything. Make what exists easier to read.",
+    "tasks": [
+      "Rename one unclear variable or component",
+      "Split one oversized file into two",
+      "Confirm nothing broke after the refactor"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 52,
+    "date": "2026-07-31",
+    "title": "Day 52: Add a loading and empty state",
+    "brief": "Design for the moment before there's data, not just the moment after.",
+    "tasks": [
+      "Add a loading indicator for at least one view",
+      "Add an empty-state message for when there's no data",
+      "Compare how both feel on a 390px screen"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 53,
+    "date": "2026-08-01",
+    "title": "Day 53: Document what you built this week",
+    "brief": "Future-you (and recruiters) will thank present-you for writing this down.",
+    "tasks": [
+      "Update your README with what's working so far",
+      "List 2 things you'd do differently",
+      "Push the updated docs"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 54,
+    "date": "2026-08-02",
+    "title": "Day 54: Ship a small but real feature",
+    "brief": "Pick the smallest genuinely useful feature you haven't built yet, and ship only that.",
+    "tasks": [
+      "Choose one feature you can finish today",
+      "Build and test it end to end",
+      "Keep the commit scoped to just this feature"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 55,
+    "date": "2026-08-03",
+    "title": "Day 55: Improve your mobile layout",
+    "brief": "Most of your users are on a phone, late at night. Design for that reality today.",
+    "tasks": [
+      "Test your app at 390px width",
+      "Fix any text truncation or overflow",
+      "Check tap target sizes are comfortable"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 56,
+    "date": "2026-08-04",
+    "title": "Day 56: Add error handling to one flow",
+    "brief": "Pick your riskiest flow — the one most likely to fail — and make failure survivable.",
+    "tasks": [
+      "Identify your most fragile user flow",
+      "Add a try/catch or fallback UI for it",
+      "Write down what a user sees when it fails"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 57,
+    "date": "2026-08-05",
+    "title": "Day 57: Write a test for your riskiest function",
+    "brief": "You don't need full coverage. You need confidence in the part that scares you most.",
+    "tasks": [
+      "Pick the function you trust least",
+      "Write one test for its main behavior",
+      "Run it and confirm it passes"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 58,
+    "date": "2026-08-06",
+    "title": "Day 58: Polish your onboarding moment",
+    "brief": "The first 10 seconds decide whether someone stays. Give them your full attention today.",
+    "tasks": [
+      "Review what a brand-new user sees first",
+      "Cut anything that doesn't help them get started",
+      "Add one line of guidance if it's missing"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 59,
+    "date": "2026-08-07",
+    "title": "Day 59: Add a share or export feature",
+    "brief": "Give your project a way to leave the app — a link, an image, a download.",
+    "tasks": [
+      "Pick one artifact worth sharing (result, score, output)",
+      "Build a simple share or export action for it",
+      "Test that the shared output makes sense out of context"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  },
+  {
+    "id": 60,
+    "date": "2026-08-08",
+    "title": "Day 60: Mid-challenge review",
+    "brief": "Step back. Look at day 1's commit next to today's. Note the distance.",
+    "tasks": [
+      "Re-read your day 1 README",
+      "List 3 things that changed since then",
+      "Post a short reflection alongside today's proof"
+    ],
+    "status": "upcoming",
+    "proof": {
+      "github": null,
+      "linkedin": null
+    }
+  }
+]

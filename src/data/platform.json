@@ -1,0 +1,44 @@
+
+{
+  "stats": {
+    "activeStudents": 1380,
+    "collegesRepresented": 214,
+    "commitsLogged": 41200,
+    "avgStreak": 9
+  },
+  "tracks": [
+    { "id": "fullstack", "name": "Full-Stack Web Development", "days": 60 },
+    { "id": "dsa", "name": "DSA & Problem Solving", "days": 60 },
+    { "id": "ml", "name": "Machine Learning Foundations", "days": 60 },
+    { "id": "mobile", "name": "Mobile App Development", "days": 60 }
+  ],
+  "howItWorks": [
+    {
+      "id": "s1",
+      "title": "Pick a track",
+      "description": "Choose one focus area for the next 60 days. No switching mid-challenge — depth beats variety."
+    },
+    {
+      "id": "s2",
+      "title": "Build daily, prove it",
+      "description": "Every day ships one small task. Submit a GitHub commit and a LinkedIn post to log it."
+    },
+    {
+      "id": "s3",
+      "title": "Get seen",
+      "description": "Your streak and your work stay public — recruiters browse active builders, not just resumes."
+    }
+  ],
+  "sampleCommitGraph": [
+    "completed", "completed", "completed", "missed", "completed", "completed",
+    "missed", "completed", "missed", "completed", "missed", "missed",
+    "completed", "completed", "completed", "completed", "completed", "completed",
+    "completed", "completed", "completed", "missed", "completed", "completed",
+    "completed", "missed", "completed", "completed", "completed", "completed",
+    "completed", "completed", "completed", "missed", "today",
+    "upcoming", "upcoming", "upcoming", "upcoming", "upcoming", "upcoming",
+    "upcoming", "upcoming", "upcoming", "upcoming", "upcoming", "upcoming",
+    "upcoming", "upcoming", "upcoming", "upcoming", "upcoming", "upcoming",
+    "upcoming", "upcoming", "upcoming", "upcoming", "upcoming", "upcoming"
+  ]
+}

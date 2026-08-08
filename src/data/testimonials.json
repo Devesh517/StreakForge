@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "t1",
+    "quote": "I used to say I'd learn to code 'this summer' every summer. ABTalks made day 1 small enough that I actually started.",
+    "name": "Rohit Verma",
+    "detail": "Backend Track · NIT Trichy"
+  },
+  {
+    "id": "t2",
+    "quote": "A recruiter messaged me because of my streak, not my resume. That's when I understood what 'public proof of work' actually means.",
+    "name": "Meera Iyer",
+    "detail": "Frontend Track · VIT Vellore"
+  },
+  {
+    "id": "t3",
+    "quote": "I missed day 12. I almost quit. The app talked me back in instead of just resetting my number to zero.",
+    "name": "Ananya Sharma",
+    "detail": "Full-Stack Track · IIT (BHU) Varanasi"
+  }
+]

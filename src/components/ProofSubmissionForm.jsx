@@ -119,17 +119,20 @@ function Field({ id, icon: Icon, label, placeholder, value, onChange, error, dis
   );
 }
 
-// function ProofLinkRow({ icon: Icon, label, value }) {
-//   return (
-    
-//       href={value}
-//       target="_blank"
-//       rel="noreferrer"
-//       className="flex items-center gap-2 truncate py-1 text-sm text-paper hover:text-flame"
-//     >
-//       <Icon className="h-4 w-4 flex-shrink-0 text-muted" strokeWidth={2} />
-//       <span className="flex-shrink-0 text-muted">{label}:</span>
-//       <span className="truncate">{value}</span>
-//     </a>
-//   );
-// }
+function ProofLinkRow({ icon: Icon, label, value }) {
+  return (
+    <a
+      href={value}
+      target="_blank"
+      rel="noreferrer"
+      className="flex items-center gap-2 truncate py-1 text-sm text-paper hover:text-flame"
+    >
+      <Icon
+        className="h-4 w-4 flex-shrink-0 text-muted"
+        strokeWidth={2}
+      />
+      <span className="flex-shrink-0 text-muted">{label}:</span>
+      <span className="truncate">{value}</span>
+    </a>
+  );
+}

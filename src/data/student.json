@@ -1,0 +1,22 @@
+
+{
+  "name": "Ananya Sharma",
+  "handle": "@ananya.codes",
+  "track": "Full-Stack Web Development",
+  "college": "IIT (BHU) Varanasi",
+  "avatarInitials": "AS",
+  "joinedDate": "2026-06-10",
+  "totalDays": 60,
+  "currentDay": 20,
+  "currentStreak": 7,
+  "longestStreak": 11,
+  "totalDaysCompleted": 18,
+  "rank": 42,
+  "totalParticipants": 1380,
+  "badges": [
+    { "id": "b1", "label": "First Commit", "icon": "git-commit" },
+    { "id": "b2", "label": "11-Day Flame", "icon": "flame" },
+    { "id": "b3", "label": "LinkedIn Debut", "icon": "linkedin" },
+    { "id": "b4", "label": "Comeback Kid", "icon": "rotate-ccw" }
+  ]
+}
