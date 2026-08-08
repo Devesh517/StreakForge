@@ -1,6 +1,6 @@
 // src/hooks/useStreak.js
 import { useMemo } from "react";
-import challengeDays from "../data/challengeDays.json";
+import challengeDays from "../data/ChallengeDays.json";
 import student from "../data/student.json";
 import {
   getTodayDay,
